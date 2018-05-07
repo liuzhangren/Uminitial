@@ -1,5 +1,6 @@
 # Umi的空壳架子 未添加路由跳转组件 在地址栏直接输入路由可测试
 * This prj
+  * Caddyfile -- 用于解决umi刷新报错 404
   * sources
     * layout -- 配置路由 和 嵌入 MainLayout Menu跳转组件
     * pages -- 配置各个路由对应的页面
