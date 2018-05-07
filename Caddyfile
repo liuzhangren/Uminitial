@@ -1,0 +1,7 @@
+:80
+root /srv/packages/Umi/dist
+gzip
+
+rewrite / {
+  to {path} /
+}
